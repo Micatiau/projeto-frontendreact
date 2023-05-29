@@ -1,5 +1,5 @@
 import Cat from './images/Cat.png'
-import Stuck from './images/Stuck.png'
+import Jarra from './images/Jarra.png'
 import Sweet from './images/Sweet.png'
 import Puppy from './images/Puppy.png'
 import Baby from './images/Baby.png'
@@ -19,7 +19,7 @@ export const results = [
     id: 2,
     title: 'Camisa Stuck ',
     price: 71.50,
-    image: Stuck,
+    image: Jarra,
   },
   {
     id: 3,
