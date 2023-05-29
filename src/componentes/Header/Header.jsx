@@ -1,9 +1,10 @@
 import { HeaderContainer, Logo } from "./HeaderStyle"
 
+
 function Header () {
     return(
         <HeaderContainer>
-        <Logo src="../src/data/images/SPACE_DREAM.png" alt="logo" />
+        <Logo src="../src/data/SPACE_DREAM.png" alt="logo" />
         </HeaderContainer>
     )
 }
