@@ -3,7 +3,7 @@ export const results = [
     id: 1,
     title: 'Camisa Cat',
     price: 50.25,
-    image: '../src/data/Cat.jpg',
+    image: '../dist/assets/Cat.jpg',
   },
   {
     id: 2,
