@@ -1,10 +1,10 @@
 import { useState } from "react";
-import { results } from "./assents/productList.js";
 import Carrinho from "./componentes/Carrinho/Carrinho";
 import Filtro from "./componentes/Filtro/Filtro";
 import Home from "./componentes/Home/Home";
 import { Container, GlobalStyle } from "./componentes/GlobalStyle.js";
 import Header from "./componentes/Header/Header.jsx";
+import { results } from "./data/productList";
 
 function App() {
   const [minFilter, setMinFilter] = useState(0);
